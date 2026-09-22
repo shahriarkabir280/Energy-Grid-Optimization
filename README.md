@@ -1,6 +1,6 @@
 # GridWise LLM
 
-FastAPI service for Energy Grid Optmization .Here is the Problem set https://github.com/shahriarkabir280/Energy-Grid-Optimization/blob/main/BUP_CSE_FEST_2026_Preliminary_Problem_Statement_GridWise_LLM.pdf . It was done in preliminary round at BUP CSE Hackathon 2026.
+Developed GridWise LLM, an AI-assisted energy grid optimization service for the BUP CSE Hackathon 2026 preliminary round. Built a FastAPI backend that interprets operator notes and scenarios using LLMs, applies deterministic safety guardrails, and generates optimized energy schedules using SciPy Linear Programming. Implemented replay validation, exact JSON outputs, provider fallback, automated tests, and Docker support. Here is the Problem Set: https://github.com/shahriarkabir280/Energy-Grid-Optimization/blob/main/BUP_CSE_FEST_2026_Preliminary_Problem_Statement_GridWise_LLM.pdf
 
 ## Architecture
 
