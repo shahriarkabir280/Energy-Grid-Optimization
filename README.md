@@ -1,6 +1,6 @@
 # GridWise LLM
 
-Judge-ready FastAPI service for the BUP CSE Fest 2026 GridWise preliminary.
+FastAPI service for Energy Grid Optmization .Here is the Problem set https://github.com/shahriarkabir280/Energy-Grid-Optimization/blob/main/BUP_CSE_FEST_2026_Preliminary_Problem_Statement_GridWise_LLM.pdf . It was done in preliminary round at BUP CSE Hackathon 2026.
 
 ## Architecture
 
